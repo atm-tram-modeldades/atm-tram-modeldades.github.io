@@ -203,7 +203,7 @@ html {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-    font-family: Merriweather, Georgia, serif;
+    font-family: Roboto, Georgia, serif;
     font-size: 14px;
     line-height: 1.428571429;
     color: #222;
@@ -268,7 +268,7 @@ hr {
     border: 0;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
     line-height: 1.1;
     color: inherit;
